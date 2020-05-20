@@ -1,0 +1,19 @@
+main {
+  padding: 30px;
+}
+
+h1, h2 {
+  font-family: 'Lato';
+  color: rgb(128, 0, 0);
+}
+
+p {
+  font-family: 'Cabin';
+  font-size: 18px;
+  font-weight: bold;
+}
+
+hr {
+  width: 50%;
+  margin-left: 0;
+}
